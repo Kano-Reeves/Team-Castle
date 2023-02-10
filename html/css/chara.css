@@ -39,3 +39,9 @@ h4{
 .zoom:hover{
     scale: 1.2;
 }
+p{
+    padding: 4px;
+}
+.rela td {
+    width:50%;
+}
