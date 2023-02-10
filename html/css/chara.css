@@ -1,0 +1,41 @@
+html, body {
+    font-family: "Signika Negative";
+    width: 90%;
+    margin:auto;
+}
+.probox {
+    width: 400px;
+    float: right;
+    margin: 5px;
+    text-align: center;
+    border: 1px solid black;
+}
+.gallery {
+    height: 175;
+    transition: .2s;
+}
+h4{
+    background-color: #FF91AF;
+    text-align: center;
+}
+#weapons {
+    margin: auto;
+    border: 5px solid #FF91AF;
+    border-radius: 20px;
+    border-collapse: separate;
+    padding: 5px;
+}
+.rel {
+    float: left;
+    margin: 4px;
+    width: 100px;
+}
+.gallery:hover {
+    scale: 1.2;
+}
+.zoom{
+    transition: .2s;
+}
+.zoom:hover{
+    scale: 1.2;
+}

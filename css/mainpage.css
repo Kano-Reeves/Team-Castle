@@ -1,0 +1,85 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    font-family: "Signika Negative";
+}
+
+.title {
+    text-align: center;
+}
+
+.header {
+    background-color: #FF91AF;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    width: 100%;
+}
+
+.mercs {
+    margin:auto;
+    width: 90%;
+    text-align: center;
+    border: 1px solid black;
+    padding: 2px;
+}
+
+#imgs {
+    background-color: #FF91AF;
+}
+
+#stuff {
+    margin:auto;
+    width: 90%;
+    text-align: center;
+    padding: 2px;
+}
+
+#tabs {
+    margin:auto;
+    width: 90%;
+    text-align: center;
+    padding: 2px;
+    margin-top: 40px;
+}
+
+.links {
+    margin: 0px;
+    padding: 0px;
+    border: 1px solid black;
+    width: 50%;
+    position: relative;
+}
+
+h4 {
+    background-color: #FF91AF;
+    font-size: 130%;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 0px;
+    position: absolute;
+    top:0;
+    width:100%;
+}
+
+#facts {
+    margin-top: 40px;
+}
+
+h3 {
+    background-color: #FF91AF;
+    font-size: 130%;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 0px;
+    width:100%;
+}
+
+.zoom{
+    transition: .2s;
+}
+.zoom:hover{
+    scale: 1.2;
+}
+.pointer:hover{
+    cursor: pointer;
+}
